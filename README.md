@@ -40,6 +40,6 @@ node src/server.js
 
 
 链接：  
-http://graphql.cn/code/
+http://graphql.cn/code/  
 https://segmentfault.com/a/1190000011263214#articleHeader3  
 http://jerryzou.com/posts/10-questions-about-graphql/  
